@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "HTML Full Course - Build a Website Tutorial",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+    "related_skills": ["HTML", "Web Development"],
+    "cost": "Free"
+  },
+  {
+    "id": 2,
+    "title": "CSS Crash Course for Beginners",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc",
+    "related_skills": ["CSS", "Web Design"],
+    "cost": "Free"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Essentials 2025",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/javascript-essentials/",
+    "related_skills": ["JavaScript", "Frontend Development"],
+    "cost": "Paid"
+  },
+  {
+    "id": 4,
+    "title": "React for Beginners",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/react-basics",
+    "related_skills": ["React", "Frontend Development"],
+    "cost": "Free"
+  },
+  {
+    "id": 5,
+    "title": "Python for Everybody",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/specializations/python",
+    "related_skills": ["Python", "Programming"],
+    "cost": "Free"
+  },
+  {
+    "id": 6,
+    "title": "Introduction to Data Analysis Using Excel",
+    "platform": "edX",
+    "url": "https://www.edx.org/course/introduction-to-data-analysis-using-excel",
+    "related_skills": ["Excel", "Data Analysis"],
+    "cost": "Free"
+  },
+  {
+    "id": 7,
+    "title": "Advanced Excel Formulas & Functions",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/advanced-excel-formulas-functions/",
+    "related_skills": ["Excel", "Data Analysis"],
+    "cost": "Paid"
+  },
+  {
+    "id": 8,
+    "title": "Effective Communication Skills",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/wharton-communication-skills",
+    "related_skills": ["Communication", "Soft Skills"],
+    "cost": "Free"
+  },
+  {
+    "id": 9,
+    "title": "Public Speaking Masterclass",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/public-speaking-masterclass/",
+    "related_skills": ["Public Speaking", "Communication"],
+    "cost": "Paid"
+  },
+  {
+    "id": 10,
+    "title": "Figma UI/UX Design Essentials",
+    "platform": "Udemy",
+    "url": "https://www.udemy.com/course/figma-ux-ui-design/",
+    "related_skills": ["UI/UX Design", "Figma"],
+    "cost": "Paid"
+  },
+  {
+    "id": 11,
+    "title": "Canva for Beginners: Graphic Design Basics",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=zJSY8tbf_ys",
+    "related_skills": ["Graphic Design", "Creativity"],
+    "cost": "Free"
+  },
+  {
+    "id": 12,
+    "title": "SQL for Data Science",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/sql-for-data-science",
+    "related_skills": ["SQL", "Data Analysis"],
+    "cost": "Free"
+  },
+  {
+    "id": 13,
+    "title": "Google Data Analytics Certificate",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "related_skills": ["Data Analytics", "Spreadsheets", "SQL"],
+    "cost": "Paid"
+  },
+  {
+    "id": 14,
+    "title": "Introduction to Cybersecurity",
+    "platform": "Cisco Networking Academy",
+    "url": "https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity",
+    "related_skills": ["Cybersecurity", "Networking"],
+    "cost": "Free"
+  },
+  {
+    "id": 15,
+    "title": "Git & GitHub Crash Course",
+    "platform": "YouTube",
+    "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+    "related_skills": ["Git", "Version Control"],
+    "cost": "Free"
+  },
+  {
+    "id": 16,
+    "title": "Time Management Fundamentals",
+    "platform": "LinkedIn Learning",
+    "url": "https://www.linkedin.com/learning/time-management-fundamentals",
+    "related_skills": ["Time Management", "Productivity"],
+    "cost": "Paid"
+  },
+  {
+    "id": 17,
+    "title": "Google Project Management Certificate",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/professional-certificates/google-project-management",
+    "related_skills": ["Project Management", "Leadership"],
+    "cost": "Paid"
+  },
+  {
+    "id": 18,
+    "title": "Build Responsive Websites with HTML & CSS",
+    "platform": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+    "related_skills": ["HTML", "CSS", "Responsive Design"],
+    "cost": "Free"
+  },
+  {
+    "id": 19,
+    "title": "Excel for Business: Essentials",
+    "platform": "Coursera",
+    "url": "https://www.coursera.org/learn/excel-essentials",
+    "related_skills": ["Excel", "Business Analysis"],
+    "cost": "Free"
+  },
+  {
+    "id": 20,
+    "title": "Introduction to Artificial Intelligence (AI)",
+    "platform": "edX",
+    "url": "https://www.edx.org/course/introduction-to-artificial-intelligence-ai",
+    "related_skills": ["Artificial Intelligence", "Machine Learning"],
+    "cost": "Free"
+  }
+]
