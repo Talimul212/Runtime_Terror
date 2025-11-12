@@ -1,6 +1,6 @@
-# 🚀 SkillMatch Backend
+# 🚀 Runtime_Terror Backend
 
-A full-stack backend for SkillMatch — a platform that helps students and job seekers discover relevant jobs and learning resources based on their skills and career interests. Built to support SDG 8: Decent Work and Economic Growth.
+A full-stack backend for Runtime_Terror — a platform that helps students and job seekers discover relevant jobs and learning resources based on their skills and career interests. Built to support SDG 8: Decent Work and Economic Growth.
 
 ---
 
@@ -18,8 +18,8 @@ A full-stack backend for SkillMatch — a platform that helps students and job s
 ## 🚀 Setup Instructions
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/skillmatch-backend.git
-   cd skillmatch-backend
+   git clone [https://github.com/your-username/skillmatch-backend.git](https://github.com/Talimul212/Runtime_Terror)
+   cd Runtime_Terror
 
    npm install
    npm run dev
