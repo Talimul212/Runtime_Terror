@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer Intern",
+    "company": "TechNova Solutions",
+    "location": "Dhaka",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "Node Js"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  },
+  {
+    "id": 2,
+    "title": "Junior Backend Developer",
+    "company": "CodeWorks Ltd.",
+    "location": "Remote",
+    "requiredSkills": ["Node.js", "Express", "MongoDB", "Git"],
+    "experienceLevel": "Junior",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 3,
+    "title": "Graphic Design Assistant",
+    "company": "PixelCraft Studio",
+    "location": "Chittagong",
+    "requiredSkills": ["Adobe Photoshop", "Illustrator", "Creativity"],
+    "experienceLevel": "Fresher",
+    "jobType": "Part-time"
+  },
+  {
+    "id": 4,
+    "title": "Data Entry Executive",
+    "company": "BizData Analytics",
+    "location": "Remote",
+    "requiredSkills": ["MS Excel", "Attention to Detail", "Communication"],
+    "experienceLevel": "Fresher",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 5,
+    "title": "Digital Marketing Intern",
+    "company": "Marketify Digital",
+    "location": "Dhaka",
+    "requiredSkills": ["SEO", "Social Media Marketing", "Canva", "Content Writing"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  },
+  {
+    "id": 6,
+    "title": "Junior Web Developer",
+    "company": "SoftBridge IT",
+    "location": "Sylhet",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "PHP", "MySQL"],
+    "experienceLevel": "Junior",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 7,
+    "title": "Mobile App Developer Intern",
+    "company": "AppNext Studio",
+    "location": "Remote",
+    "requiredSkills": ["Flutter", "Dart", "Firebase"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  },
+  {
+    "id": 8,
+    "title": "Junior Data Analyst",
+    "company": "Insight Analytics",
+    "location": "Dhaka",
+    "requiredSkills": ["Python", "Pandas", "Excel", "Data Visualization"],
+    "experienceLevel": "Junior",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 9,
+    "title": "Content Writer",
+    "company": "BrightWords Media",
+    "location": "Remote",
+    "requiredSkills": ["Writing", "Editing", "Research", "SEO"],
+    "experienceLevel": "Fresher",
+    "jobType": "Freelance"
+  },
+  {
+    "id": 10,
+    "title": "UI/UX Designer Intern",
+    "company": "DesignLab BD",
+    "location": "Dhaka",
+    "requiredSkills": ["Figma", "Wireframing", "User Research"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  },
+  {
+    "id": 11,
+    "title": "Customer Support Associate",
+    "company": "TechAssist Co.",
+    "location": "Remote",
+    "requiredSkills": ["Communication", "Problem Solving", "CRM Tools"],
+    "experienceLevel": "Fresher",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 12,
+    "title": "Video Editing Intern",
+    "company": "VisualWorks Studio",
+    "location": "Dhaka",
+    "requiredSkills": ["Adobe Premiere Pro", "After Effects", "Creativity"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  },
+  {
+    "id": 13,
+    "title": "Research Assistant",
+    "company": "DataBridge Research",
+    "location": "Remote",
+    "requiredSkills": ["Research", "Report Writing", "MS Excel"],
+    "experienceLevel": "Junior",
+    "jobType": "Part-time"
+  },
+  {
+    "id": 14,
+    "title": "Junior QA Tester",
+    "company": "SoftVerify Solutions",
+    "location": "Chittagong",
+    "requiredSkills": ["Testing", "Bug Reporting", "Documentation"],
+    "experienceLevel": "Fresher",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 15,
+    "title": "Social Media Manager (Entry Level)",
+    "company": "BrandLift Agency",
+    "location": "Dhaka",
+    "requiredSkills": ["Content Creation", "Social Media Management", "Analytics"],
+    "experienceLevel": "Junior",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 16,
+    "title": "Assistant Data Engineer",
+    "company": "NextGen DataTech",
+    "location": "Remote",
+    "requiredSkills": ["SQL", "Python", "ETL", "Cloud Basics"],
+    "experienceLevel": "Junior",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 17,
+    "title": "WordPress Developer Intern",
+    "company": "WebCraft IT",
+    "location": "Sylhet",
+    "requiredSkills": ["WordPress", "HTML", "CSS", "PHP"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  },
+  {
+    "id": 18,
+    "title": "Junior Network Support Engineer",
+    "company": "NetLink BD",
+    "location": "Dhaka",
+    "requiredSkills": ["Networking", "Troubleshooting", "Hardware Knowledge"],
+    "experienceLevel": "Junior",
+    "jobType": "Full-time"
+  },
+  {
+    "id": 19,
+    "title": "Freelance Translator (English-Bangla)",
+    "company": "LocalizeHub",
+    "location": "Remote",
+    "requiredSkills": ["Translation", "Editing", "Language Proficiency"],
+    "experienceLevel": "Fresher",
+    "jobType": "Freelance"
+  },
+  {
+    "id": 20,
+    "title": "Junior Machine Learning Intern",
+    "company": "AIverse Labs",
+    "location": "Remote",
+    "requiredSkills": ["Python", "NumPy", "Pandas", "Scikit-learn"],
+    "experienceLevel": "Fresher",
+    "jobType": "Internship"
+  }
+]
