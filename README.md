@@ -18,7 +18,7 @@ A full-stack backend for Runtime_Terror — a platform that helps students and j
 ## 🚀 Setup Instructions
 1. **Clone the repo**
    ```bash
-   git clone [https://github.com/your-username/skillmatch-backend.git](https://github.com/Talimul212/Runtime_Terror)
+   git clone https://github.com/Talimul212/Runtime_Terror
    cd Runtime_Terror
 
    npm install
