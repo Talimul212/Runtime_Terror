@@ -13,8 +13,9 @@ import {
 } from "../../../shared/match.js";
 export const register = async (req, res) => {
   try {
-    const user = await registerUser(req.body);
-    res.status(201).json(user);
+    const { user, token } = await registerUser(req.body); // updated to return both
+    res.status(201).json({ user, token });
+    console.log("Registered user:", user);
   } catch (err) {
     res.status(400).json({ error: err.message });
   }
