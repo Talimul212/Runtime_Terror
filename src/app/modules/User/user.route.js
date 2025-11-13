@@ -7,11 +7,10 @@ import {
   register,
   updateProfile,
 } from "./user.controller.js";
-import authMiddleware from "../../middlewares/auth.js";
 
 router.post("/register", register);
 router.post("/login", login);
 router.get("/profile/:id", getProfile);
-router.put("/profile/:id", updateProfile);
+router.put("/update/:id", updateProfile);
 
 export const UserRoutes = router;

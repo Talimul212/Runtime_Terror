@@ -11,6 +11,7 @@ import {
   matchJobsToUser,
   matchResourcesToUser,
 } from "../../../shared/match.js";
+import { id } from "zod/v4/locales";
 export const register = async (req, res) => {
   try {
     const { user, token } = await registerUser(req.body); // updated to return both
@@ -44,9 +45,20 @@ export const getProfile = async (req, res) => {
 };
 
 export const updateProfile = async (req, res) => {
+  console.log(req.body);
   try {
-    const updated = await updateProfileInfo(req.user.id, req.body);
-    res.status(200).json(updated);
+    const userId = req.params.id;
+    const updates = req.body;
+    console.log(userId);
+    console.log(userId);
+
+    const updatedUser = await User.findByIdAndUpdate(userId, updates, {
+      new: true,
+      runValidators: true,
+    });
+    console.log(updatedUser);
+
+    res.status(200).json(updatedUser);
   } catch (err) {
     res.status(400).json({ error: err.message });
   }
