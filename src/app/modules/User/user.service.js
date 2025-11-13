@@ -5,7 +5,14 @@ import User from "./user.model.js";
 export const registerUser = async (userData) => {
   const hashedPassword = await bcrypt.hash(userData.password, 10);
   const user = new User({ ...userData, password: hashedPassword });
-  return await user.save();
+  const savedUser = await user.save();
+
+  // Generate token after registration
+  const token = jwt.sign({ id: savedUser._id }, process.env.JWT_SECRET, {
+    expiresIn: "1d",
+  });
+
+  return { user: savedUser, token };
 };
 
 export const loginUser = async (email, password) => {
