@@ -1,7 +1,7 @@
 // external imports
-import multer from 'multer';
-import path from 'path';
-import { fileURLToPath } from 'url';
+import multer from "multer";
+import path from "path";
+import { fileURLToPath } from "url";
 
 function uploader(
   subfolder_path,
@@ -28,11 +28,11 @@ function uploader(
       const fileExt = path.extname(file.originalname);
       const fileName =
         file.originalname
-          .replace(fileExt, '')
+          .replace(fileExt, "")
           .toLowerCase()
-          .split(' ')
-          .join('-') +
-        '-' +
+          .split(" ")
+          .join("-") +
+        "-" +
         Date.now();
 
       cb(null, fileName + fileExt);
