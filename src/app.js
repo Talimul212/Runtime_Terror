@@ -13,14 +13,19 @@ app.use(cookieParser());
 
 // access static file
 app.use(express.static("src"));
-// app.use("uploads/team-member", express.static("team-member"));
+app.use("uploads/profile", express.static("profile"));
 
 //parser
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use("/api/v1", routes);
+app.post("/extract", async (req, res) => {
+  const file = req.files.pdf;
+  const data = await pdf(file.data);
 
+  res.send({ text: data.text });
+});
 //global error handler
 app.use(globalErrorHandler);
 
